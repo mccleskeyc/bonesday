@@ -5,12 +5,12 @@ export class Bones extends Component {
         return (
             <div className="decisioncontainer">
                 <div className="intro">
-                    Noodle says today is a...
+                    <a href="https://www.tiktok.com/@jongraz?" className="link">Noodle</a> says today is a...
                 </div>
                 
                 <br />
 
-                <div className="decisiontext">Bones Day!</div>
+                <div className="decisiontext">🦴 Bones Day! 🦴</div>
 
                 <img
                     className="bonesimg"

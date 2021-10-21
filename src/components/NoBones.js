@@ -5,12 +5,11 @@ export class NoBones extends Component {
         return (
             <div className="decisioncontainer">
                 <div className="intro">
-                    Noodle says today is a...
-                </div>
+                <a href="https://www.tiktok.com/@jongraz?" className="link">Noodle</a> says today is a...                </div>
                 
                 <br />
 
-                <div className="decisiontext">No Bones Day!</div>
+                <div className="decisiontext">🚫🦴 No Bones Day! 🚫🦴</div>
 
                 <img
                     className="bonesimg"
