@@ -26,3 +26,25 @@ h1 {
   font-weight: 800;
 }
 
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color:peru;
+  color: whitesmoke;
+  display: flex;
+  flex-wrap: wrap;
+  height: 20px;
+}
+
+.footer > div {
+  width: 300px;
+  background-color:peru;
+  color: whitesmoke;
+  flex: 1;
+  height: 100%;
+  text-align:center;
+  text-decoration: none;
+}
+
