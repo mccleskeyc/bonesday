@@ -1,8 +1,12 @@
 * {
   background-color: tan;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+
 }
 .App {
   text-align: center;
+  padding-right: 2%;
+  padding-left: 2%;
 }
 
 .bonesimg {
@@ -10,19 +14,12 @@
   height: 400px;
 }
 
-h1 {
-  font-family:Georgia, 'Times New Roman', Times, serif;
-}
-
 .intro {
   font-size: large;
-  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .decisiontext {
   font-size: xx-large;
-  padding-bottom: 30px;
-  font-family: Georgia, 'Times New Roman', Times, serif;
   font-weight: 800;
 }
 
@@ -31,24 +28,23 @@ h1 {
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color:peru;
   color: whitesmoke;
   display: flex;
   flex-wrap: wrap;
-  height: 20px;
+  height: 3%;
+  padding-bottom: 15px;
 }
 
-.footer > div {
-  width: 300px;
-  background-color:peru;
-  color: whitesmoke;
-  flex: 1;
-  height: 100%;
-  text-align:center;
-  text-decoration: none;
-}
+
 
 a {
   color: black;
 }
 
+.decisioninfo {
+  margin-bottom: 2%;
+}
+
+.update {
+  font-size:xx-small;
+}
