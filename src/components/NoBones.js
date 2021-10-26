@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-
+import Updated from './Updated'
 export class NoBones extends Component {
     render() {
         return (
@@ -9,8 +9,8 @@ export class NoBones extends Component {
                 
                 <br />
 
-                <div className="decisiontext">🚫🦴 No Bones Day! 🚫🦴</div>
-                <div className="update">Last Updated: 10/21/21 at 2:48pm ET</div>
+                <div className="decisiontext">🦴 No Bones Day! 🦴</div>
+                <Updated />
 
                 <img
                     className="bonesimg"

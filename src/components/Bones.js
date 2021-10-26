@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-
+import Updated from './Updated'
 export class Bones extends Component {
     render() {
         return (
@@ -11,8 +11,8 @@ export class Bones extends Component {
                 <br />
 
                 <div className="decisiontext">🦴 Bones Day! 🦴</div>
-                <div className="update">Last Updated: 10/21/21 at 2:48pm ET</div>
-
+                <Updated />
+                
                 <img
                     className="bonesimg"
                     src="https://media.npr.org/assets/img/2021/10/19/screen-shot-2021-10-19-at-11.51.31_custom-e5ca476577cde7ec020eebd95b7daa4228cfe9af-s1200-c85.webp"
