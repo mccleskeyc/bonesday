@@ -22,9 +22,6 @@ export class NoBones extends Component {
 
                 <div className="decisioninfo">Noodle is giving you permission to take the time you need today. Slow things down today, practice self care, and maybe call out of work.
                 </div>
-                <div className="update">
-                    All of Noodle's original content can be found <a href="https://www.tiktok.com/@jongraz?" className="link">@jongraz</a> on TikTok.
-                </div>
             
             </div>
         )
