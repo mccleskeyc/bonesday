@@ -22,6 +22,7 @@ export class Bones extends Component {
                 <br />
 
                 <div className="decisioninfo">He's feeling jazzed! Go ahead and treat yourself, take that leap of faith, and have a good day!</div>
+
                 <div className="update">
                     All of Noodle's original content can be found <a href="https://www.tiktok.com/@jongraz?" className="link">@jongraz</a> on TikTok.
                 </div>
