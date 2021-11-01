@@ -5,7 +5,7 @@ export class Updated extends Component {
     render() {
         return (
             <div>
-                <div className="update">Last Updated: 10/21/21 at 2:48pm ET</div>
+                <div className="update">Last Updated: 11/1/21 at 3:11pm ET</div>
             </div>
         )
     }
